@@ -1,9 +1,9 @@
 {
   "pack": {
-    "pack_format": 75,
-    "supported_formats": [16, 75],
+    "pack_format": 84,
+    "supported_formats": [16, 84],
     "min_format": [16, 0],
-    "max_format": [75, 0],
+    "max_format": [84, 0],
     "description": "The hearts are now actually half."
   }
 }
